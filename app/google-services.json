@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "560920711706",
+    "firebase_url": "https://linkme-4f24b.firebaseio.com",
+    "project_id": "linkme-4f24b",
+    "storage_bucket": "linkme-4f24b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560920711706:android:d141993a1bb2b1f6",
+        "android_client_info": {
+          "package_name": "boredatschool.linkme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560920711706-mbrvc0hj01cdkd2q94jdkvp8mq1sd4so.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "boredatschool.linkme",
+            "certificate_hash": "7dee447dea379890271c1a62c9f9f220dfe344a6"
+          }
+        },
+        {
+          "client_id": "560920711706-g3v06p707sqond4epnb8l1kd5339forr.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "560920711706-g3v06p707sqond4epnb8l1kd5339forr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANVTr7S9PjgYxvYvVt47hKCkgdYWzPm5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560920711706-g3v06p707sqond4epnb8l1kd5339forr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
